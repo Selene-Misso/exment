@@ -16,8 +16,8 @@
         }
     ],
     "require": {
-        "php": ">=7.2.0",
-        "exceedone/laravel-admin": "~2.0",
+        "php": "^7.3",
+        "exceedone/laravel-admin": "dev-feature/php7_3",
         "laravel/framework": "~6.20",
         "laravelcollective/html": "~6.2",
         "laravel/helpers": "~1.4",
